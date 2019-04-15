@@ -60,4 +60,39 @@ He **reckons** his identity as ….
 
   Did you **reckon in** the cost of taxi?  (Count)
 
-Far
+as the **incumbent** mayor
+
++ incumbent 在职的; 义不容辞的
+
+  the incumbent governor 
+
+  It is incumbent upon all of us to make an extra effort 
+
+Tell him they are **at ease** with it  
+
++ if you are at ease, you are feeling confident and relaxed. 
+
+A **landslide** victory … 
+
++ landslide : 山崩， 大胜利
+
+a comment that sounded like a **dogwhistle** intended to **deter** more **conservative** African-American voters 
+
++ Dog whistle : is a type of strategy of communication that sends a message that the general population will take a certain meaning from, but a certain group that is "[in the know](https://www.urbandictionary.com/define.php?term=in%20the%20know)" will [take away](https://www.urbandictionary.com/define.php?term=take%20away) the secret, intended message. Often involves code words.
+
++ deter ： 阻止
+
+  detergent 洗衣剂
+
+  deteriorate 恶化
+
+  determine 下决心
+
+## Happiness and voting
+
+why picking a party is like following a sports team 
+
+
+
+
+
