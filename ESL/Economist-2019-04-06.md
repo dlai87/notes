@@ -39,4 +39,25 @@ This uncertainty **stems in part from** the nature of modern war.
 
 **Fog** of law  
 
-Ff. 
+    不明朗 　fog 用的好
+
+## Gay mayors? Who cares?
+
+Mr Buttigieg had an **inkling** voters would mostly **shrug**
+
++ inkling 想法
++ shrug 耸肩
+
+He **reckons** his identity as …. 
+
++ reckon v 估计；认为；断定；猜想
+
+  I **reckon** I'm due one of my travels 
+
+  Don't **reckon upon** the weather being nice for your party 
+
+  You can always **reckon on** Jim (rely on)
+
+  Did you **reckon in** the cost of taxi?  (Count)
+
+Far
