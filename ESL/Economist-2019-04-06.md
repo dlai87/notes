@@ -92,7 +92,9 @@ a comment that sounded like a **dogwhistle** intended to **deter** more **conser
 
 why picking a party is like following a sports team 
 
+humans seem **hard-wired** to feel the pain of loss more **keenly** than the pleasure of a win. 
 
+这个表达很到位， hard-wired , 天生具有
 
 
 
