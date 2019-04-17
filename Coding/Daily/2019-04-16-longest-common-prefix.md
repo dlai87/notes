@@ -61,4 +61,5 @@ class TrieNode:
 
 + There shoulde be none-trie-tree solutions too.  I just use something I am comfortable with. 
 + Edge cases should be considered while using trie tree. 
++ Trie is a little "Over Kill"
 
