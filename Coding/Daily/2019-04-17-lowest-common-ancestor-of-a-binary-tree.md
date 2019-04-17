@@ -77,9 +77,8 @@ class Solution:
         
         if all([left, right]):
             return root
-        if left : 
-            return left 
-        else: 
-            return right 
+        
+        return left if left else right
+       
 ```
 
